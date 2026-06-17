@@ -6,15 +6,8 @@
 
 I am a Computer Science student based in Nairobi, Kenya, with a strong interest in software engineering, full-stack web development, cloud computing, and intelligent systems. I enjoy building practical technology solutions that address real-world challenges while continuously expanding my knowledge of modern software development practices.
 
-- 🔭 **Current Focus:** Building an offline-first student attendance management system
-Exploring AWS services, including AWS AppSync and Amazon Q
-Developing scalable full-stack applications using modern web technologies
-Strengthening my skills in machine learning and cloud-based architectures
-- 🌱 **Current Learning:** Cloud Computing with AWS
-Machine Learning Applications
-Distributed and Offline-First Systems
-Advanced Full-Stack Development
-Software Architecture and System Design
+- 🔭 **Current Focus:** Developing an offline-first student attendance tracking system featuring AWS synchronization capabilities.
+- 🌱 **Learning & Exploration:** Deepening my knowledge in cloud infrastructure integration and advanced machine learning modeling.
 - ⚡ **Core Interests:** Artificial Intelligence, Data Science, Cloud Computing, and Human-Computer Interaction.
 
 ---
